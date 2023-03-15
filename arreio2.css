@@ -5,3 +5,9 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
 }
+
+#res{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-weight: bolder;
+}
